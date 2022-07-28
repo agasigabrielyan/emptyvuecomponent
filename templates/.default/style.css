@@ -1,0 +1,9 @@
+.learning {
+    margin: 30px auto;
+    border: 5px solid red;
+}
+
+ul {
+    margin-top: 10px;
+    list-style-type: none;
+}
